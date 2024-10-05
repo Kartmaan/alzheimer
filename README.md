@@ -47,9 +47,9 @@ Au niveau biologique, la maladie se caractérise par :
  - **Immunothérapies** : Utilisation du système immunitaire pour éliminer les plaques amyloïdes.
  - **Thérapies cellulaires** : Transplantation de cellules souches ou de neurones pour réparer les tissus cérébraux endommagés.
  - **Réhabilitation cognitive** : Développement de programmes d'entraînement cognitif pour stimuler les fonctions cérébrales et ralentir la progression de la maladie.
-
-La data science joue un rôle important dans la recherche sur la maladie d'Alzheimer en permettant :
-- L'analyse de grands volumes de données
-- Le développement de modèles prédictifs
-- La découverte de nouveaux biomarqueurs
-- L'évaluation de l'efficacité des traitements
+ ### Le rôle de la data science
+ La data science joue un rôle important dans la recherche sur la maladie d'Alzheimer en permettant :
+ - **L'analyse de grands volumes de données** : Les données génétiques, cliniques, d'imagerie et de suivi peuvent être analysées pour identifier des patterns et des corrélations.
+ - **Le développement de modèles prédictifs** : Des modèles statistiques et d'apprentissage automatique peuvent être utilisés pour prédire l'évolution de la maladie et personnaliser les traitements.
+ - **La découverte de nouveaux biomarqueurs** : L'analyse de données omics (génomique, transcriptomique, protéomique) peut permettre d'identifier de nouveaux biomarqueurs.
+ - **L'évaluation de l'efficacité des traitements** : Les données issues des essais cliniques peuvent être analysées pour évaluer l'efficacité des nouveaux traitements.
